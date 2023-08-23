@@ -1,0 +1,2 @@
+https://avalanche.state.co.us/api-proxy/avid?_api_proxy_uri=%2Fproducts%2Fall%3Fdatetime%3D2023-03-03T21%3A30%3A00.000Z
+NEEDS A SPECIAL PARSER

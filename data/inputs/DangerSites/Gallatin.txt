@@ -1,0 +1,2 @@
+https://www.mtavalanche.com/forecast/
+/{YY}/{MM}/{DD}
